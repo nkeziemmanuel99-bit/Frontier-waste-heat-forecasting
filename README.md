@@ -1,6 +1,6 @@
 # Predicting Next-Hour Waste Heat Availability in a Data Center
 
-**MECH 658 — Introduction to Machine Learning**  
+**MECH 658| Introduction to Machine Learning**  
 American University of Beirut  
 **Nkezi Emmanuel Akofor** · nna56@mail.aub.edu
 
